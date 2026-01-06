@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ketanpatil29/ketanpatil29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/5b993083-6eb9-4ce4-9e50-6dcba93c78dd" />
+</p>
+
+<p align="center">
+  <a href="https://ketanpatil.vercel.app/" target="_blank" rel="noopener noreferrer">
+    Portfolio
+  </a>
+</p>
