@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/5b993083-6eb9-4ce4-9e50-6dcba93c78dd" />
+  <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/5b993083-6eb9-4ce4-9e50-6dcba93c78dd" />
 </p>
 
 <p align="center">
